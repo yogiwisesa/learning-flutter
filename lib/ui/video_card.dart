@@ -1,4 +1,4 @@
-import 'models.dart';
+import 'package:belajarflutter/data/models.dart';
 import 'package:flutter/material.dart';
 
 class VideoCard extends StatelessWidget{
